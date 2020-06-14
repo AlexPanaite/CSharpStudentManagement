@@ -1,0 +1,12 @@
+C:\Users\aleex\source\repos\paoo\paoo\bin\Debug\paoo.exe.config
+C:\Users\aleex\source\repos\paoo\paoo\bin\Debug\paoo.exe
+C:\Users\aleex\source\repos\paoo\paoo\bin\Debug\paoo.pdb
+C:\Users\aleex\source\repos\paoo\paoo\obj\Debug\paoo.csprojAssemblyReference.cache
+C:\Users\aleex\source\repos\paoo\paoo\obj\Debug\paoo.Properties.Resources.resources
+C:\Users\aleex\source\repos\paoo\paoo\obj\Debug\paoo.csproj.GenerateResource.cache
+C:\Users\aleex\source\repos\paoo\paoo\obj\Debug\paoo.csproj.CoreCompileInputs.cache
+C:\Users\aleex\source\repos\paoo\paoo\obj\Debug\paoo.exe
+C:\Users\aleex\source\repos\paoo\paoo\obj\Debug\paoo.pdb
+C:\Users\aleex\source\repos\paoo\paoo\obj\Debug\paoo.Main.resources
+C:\Users\aleex\source\repos\paoo\paoo\bin\Debug\Catalog.mdf
+C:\Users\aleex\source\repos\paoo\paoo\bin\Debug\Catalog_log.ldf
